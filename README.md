@@ -1,7 +1,5 @@
 # ENGR-1330-Final-Project
 The following is the final project of my ENGR-1330 class at Texas Tech University. The aim of the project is to provide tools for the analysis of the NYSDEC Greenhouse Gas Emissions Report. The report publishes the annual metric tons of carbon dioxide equivalent (with 20 or 100 year GWP adjustment) as per the Intergovernmental Panel on Climate Change's Fith and Fourth Annual Reports respectively scince 1990. The data is broken up into a variety of economic sectors, subsectors, gas types, and reporting types. The aim of the Greenhouse Gas Emissions Report is to track the progress towards the Climate Leadership and Community Protection Acts (CLCPA) requirements. Of those requirements are a reductions of the MT CO2e AR5 20 yr (metric tons of carbon dioxide equivalent 20 year GWP adjustment as per IPCC 5th annual report) to 60% of 1990 levels by 2030 and 15% of 1990 levels by 2050.
-### TOC
-
 
 ## Distributions, Plots and Descriptive Statistics
 ![Figure_1](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/aa106dc0-3c73-4a80-b2c9-99384e560fc2)
