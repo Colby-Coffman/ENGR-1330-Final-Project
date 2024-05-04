@@ -6,8 +6,6 @@ import math
 import queue
 import matplotlib.pyplot as plt
 
-START_DATE = 1990
-
 class EmissionsData:
     def __init__(self, path=None):
         if path == None:
