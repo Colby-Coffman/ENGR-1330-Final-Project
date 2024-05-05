@@ -44,7 +44,7 @@ Here is the MT CO2e AR5 20 yr gross in 1990
 ![Figure_13](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/a0ef5dd0-8ce2-4877-8257-89ab1c4394e5)
 - Prediction
 ![Figure_14](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/92c5cee1-a9ab-4079-af39-139e349eb397)
-![image](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/9f682b63-7287-4ba5-9ddb-5892b3e5bdb0)
+![Screenshot from 2024-05-04 22-37-49](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/29283fa3-dbeb-4e59-8ae5-8623d6c025a2)
 - Standardized Residuals
 ![Figure_15](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/5ae2ead6-598a-40df-9a20-b8428955c1cb)
 ### Second Order Polynomial Model
@@ -52,7 +52,7 @@ Here is the MT CO2e AR5 20 yr gross in 1990
 ![Figure_20](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/f143ae72-dead-4c17-b3a1-639a4d8c762d)
 - Prediction
 ![Figure_21](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/019470fa-4825-411d-867e-8fc571be2d53)
-![Screenshot from 2024-05-04 18-20-42](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/997b8eec-5436-4d6a-a2f1-b7954087d642)
+![Screenshot from 2024-05-04 22-38-33](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/a00e303e-666f-4b4e-a41d-4497c86e0fc6)
 - Standardized Residuals
 ![Figure_22](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/c0e14773-ba78-4144-bef9-348ffcd92853)
 ![Figure_23](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/e49923b2-a3c1-474c-bd40-3f5db1caae13)
@@ -61,7 +61,7 @@ Here is the MT CO2e AR5 20 yr gross in 1990
 ![Figure_16](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/86836ba3-83d5-4e04-a6eb-6173c40707e7)
 - Prediction
 ![Figure_17](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/16e8dde8-d591-42a8-bbe7-27544f20f9ba)
-![Screenshot from 2024-05-04 18-15-25](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/fcb3ece9-76b1-42ac-afc1-069c6071eebe)
+![Screenshot from 2024-05-04 22-39-08](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/873e754d-e440-4fa3-9650-f1e47048281b)
 (Why you shouldn't trust models when extrapolating)
 - Standardized Residuals
 ![Figure_18](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/0e25636f-b512-4313-90f1-f24e4169539f)
@@ -71,7 +71,7 @@ Here is the MT CO2e AR5 20 yr gross in 1990
 ![Figure_24](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/999c314c-be3c-4148-8c85-418bdfc6f47b)
 - Prediction
 ![Figure_25](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/81b02a63-ca00-48b4-8884-44387999a83f)
-![image](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/51f2eba6-506c-49ea-9ea8-70b37d14611b)
+![Screenshot from 2024-05-04 22-39-47](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/5f6bf3e3-491d-41ff-ae50-8002ef946ae5)
 - Standardized Residuals
 ![Figure_26](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/49974430-40e1-412c-be96-14c9d917a5b2)
 ![Figure_27](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/723d9775-bd78-4f67-9e1f-7810e6de3a99)
