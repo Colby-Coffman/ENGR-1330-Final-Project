@@ -89,4 +89,3 @@ Here we train all models again but with a 75/15/15 extrapolation split to curb v
 #### SVR Model
 ![Figure_31](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/52dbc33c-1073-4050-a804-edfafb839d12)
 ![Screenshot from 2024-05-04 18-37-44](https://github.com/Colby-Coffman/ENGR-1330-Final-Project/assets/114829458/80a63e01-3a53-4365-997a-9a6f2d5c36f4)
-Funnily enough the linear model performed best at extrapolation.
